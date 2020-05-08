@@ -2,6 +2,8 @@
 
 A client-server racing game. 
 
+![](./game.gif)
+
 # How to run:
 
 Prerequisites: Ubuntu x86, gcc
